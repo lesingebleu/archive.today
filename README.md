@@ -1,6 +1,6 @@
 I am not the author of the extension or affiliated with archive.today.
 
-### Archive Page
+## Archive Page
 
 Archive webpage with archive.today
 Adds a button to the Chrome toolbar. When clicked, it sends the URL of the current tab to archive.today to preserve a snapshot of the page, and opens the result in a new tab.
