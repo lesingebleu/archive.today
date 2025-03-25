@@ -1,4 +1,6 @@
-“Archive.today is a time capsule for web pages. It takes a ‘snapshot’ of a webpage that will always be online even if the original page disappears.
+I am not the author of the extension or affiliated with archive.today.
+
+
 
 Archive webpage with archive.today
 Adds a button to the Chrome toolbar. When clicked, it sends the URL of the current tab to archive.today to preserve a snapshot of the page, and opens the result in a new tab.
@@ -41,4 +43,4 @@ Closing new tab now returns to original tab.
 (archive.today is a time capsule for web pages. It takes a 'snapshot' of a webpage that will always be online even if the original page disappears. It saves a text and a graphical copy of the page for better accuracy and provides a short and reliable link to an unalterable record of the web page.)
 
 Disclaimers: Use at your own risk.
-This extension is not affiliated with archive.today”
+This extension is not affiliated with archive.today
