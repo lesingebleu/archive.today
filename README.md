@@ -10,7 +10,7 @@ I am not the author of the extension or affiliated with archive.today.
 
  ## Overview (https://archive.ph/HWgfX)
 
-Archive webpage with archive.today
+Archive webpage with archive.today<br/>
 Adds a button to the Chrome toolbar. When clicked, it sends the URL of the current tab to archive.today to preserve a snapshot of the page, and opens the result in a new tab.
 Also includes Link context menu to Archive or Search, Page context menu to Search. 
 Archive URL can be bookmarked for future reference, shared, whatever. Uses HTTPS for security.
