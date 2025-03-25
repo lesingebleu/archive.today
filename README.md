@@ -1,6 +1,16 @@
 I am not the author of the extension or affiliated with archive.today.
+<br/>
+## Installation
+1. Download this repository as a ZIP-file or from releases
+2. Unzip the file and you should have a folder named `archive-page`.
+3. Move the folder to a permanent location on your computer (do not delete the folder after installation).
+4. Go to the extensions page (chrome://extensions; brave://extensions).
+5. Enable Developer Mode.
+6. Click Load unpacked and select the extension folder.
+<br/>
+Description that was the Chrome Web Store page (https://archive.ph/HWgfX):
 
-## Archive Page
+## Overview
 
 Archive webpage with archive.today
 Adds a button to the Chrome toolbar. When clicked, it sends the URL of the current tab to archive.today to preserve a snapshot of the page, and opens the result in a new tab.
@@ -44,11 +54,3 @@ Closing new tab now returns to original tab.
 
 Disclaimers: Use at your own risk.
 This extension is not affiliated with archive.today
-
-### Installation
-1. Download this repository as a ZIP-file or from releases
-2. Unzip the file and you should have a folder named `archive-page`.
-3. Move the folder to a permanent location on your computer (do not delete the folder after installation).
-4. Go to the extensions page (chrome://extensions; brave://extensions).
-5. Enable Developer Mode.
-6. Click Load unpacked and select the extension folder.
