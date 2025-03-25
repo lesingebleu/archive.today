@@ -1,6 +1,6 @@
 I am not the author of the extension or affiliated with archive.today.
 
-
+### Archive Page
 
 Archive webpage with archive.today
 Adds a button to the Chrome toolbar. When clicked, it sends the URL of the current tab to archive.today to preserve a snapshot of the page, and opens the result in a new tab.
@@ -8,12 +8,12 @@ Also includes Link context menu to Archive or Search, Page context menu to Searc
 Archive URL can be bookmarked for future reference, shared, whatever. Uses HTTPS for security.
 For similar functionality on Android, check out Share2Archive in the Play Store.
 
-NOTES:
+### NOTES
 1. "Read your browsing history" permission is eliminated if not granted, or if you remove and reinstall the extension.
 2. If you get an error, try again or try later. It's NOT an extension issue—archive.today sometimes gets overwhelmed.
 3. CloudFlare DNS may not resolve archive.today, so if you experience DNS errors, try a different DNS server.
 
-WHAT'S NEW:
+### WHAT’S NEW
 0.9.0 Update: Remove (uninstall) button in Options dialog 
 Update notification only if enabled by user (optional permission)
 
@@ -44,3 +44,11 @@ Closing new tab now returns to original tab.
 
 Disclaimers: Use at your own risk.
 This extension is not affiliated with archive.today
+
+### Installation
+1. Download this repository as a ZIP-file or from releases
+2. Unzip the file and you should have a folder named `archive-page`.
+3. Move the folder to a permanent location on your computer (do not delete the folder after installation).
+4. Go to the extensions page (chrome://extensions; brave://extensions).
+5. Enable Developer Mode.
+6. Click Load unpacked and select the extension folder.
