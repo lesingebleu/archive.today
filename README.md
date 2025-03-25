@@ -1,4 +1,4 @@
-I am not the author of the extension or affiliated with archive.today.
+I am not the author of the extension or affiliated with archive.today. 
 
 ## Installation
 1. Download this repository as a ZIP-file or from [release](https://github.com/lesingebleu/archive.today/releases/tag/release).
@@ -8,7 +8,7 @@ I am not the author of the extension or affiliated with archive.today.
 5. Enable Developer Mode.
 6. Click Load unpacked and select the extension folder.
 
-## Overview (https://archive.ph/HWgfX)
+ ## Overview (https://archive.ph/HWgfX)
 
 Archive webpage with archive.today
 Adds a button to the Chrome toolbar. When clicked, it sends the URL of the current tab to archive.today to preserve a snapshot of the page, and opens the result in a new tab.
