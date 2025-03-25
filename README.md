@@ -1,8 +1,8 @@
 I am not the author of the extension or affiliated with archive.today.
 
 ## Installation
-1. Download this repository as a ZIP-file or from releases
-2. Unzip the file and you should have a folder named `archive-page`.
+1. Download this repository as a ZIP-file or from [release](https://github.com/lesingebleu/archive.today/releases/tag/release).
+2. Unzip the file and you should have a folder named `archive-page`. 
 3. Move the folder to a permanent location on your computer (do not delete the folder after installation).
 4. Go to the extensions page (chrome://extensions; brave://extensions).
 5. Enable Developer Mode.
